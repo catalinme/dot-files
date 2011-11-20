@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/4647/trunk/JLanguageTool/src/resource/pl
+END
+polish.dict
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4647/trunk/JLanguageTool/src/resource/pl/polish.dict
+END
+compounds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3344/trunk/JLanguageTool/src/resource/pl/compounds.txt
+END
+polish_synth.dict
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/languagetool/!svn/ver/4647/trunk/JLanguageTool/src/resource/pl/polish_synth.dict
+END
+multiwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/4595/trunk/JLanguageTool/src/resource/pl/multiwords.txt
+END
+polish.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/2497/trunk/JLanguageTool/src/resource/pl/polish.info
+END
+polish_tags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/4617/trunk/JLanguageTool/src/resource/pl/polish_tags.txt
+END
+polish_synth.info
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/languagetool/!svn/ver/2497/trunk/JLanguageTool/src/resource/pl/polish_synth.info
+END
+disambiguation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4618/trunk/JLanguageTool/src/resource/pl/disambiguation.xml
+END

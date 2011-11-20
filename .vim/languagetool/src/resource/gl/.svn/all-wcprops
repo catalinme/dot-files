@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/3789/trunk/JLanguageTool/src/resource/gl
+END
+galician.info
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/galician.info
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/LICENSE
+END
+taglist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/taglist.txt
+END
+test-tagged.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/test-tagged.txt
+END
+README.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/README.cvs
+END
+freeling2lt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/freeling2lt.pl
+END
+galician.dict
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3786/trunk/JLanguageTool/src/resource/gl/galician.dict
+END
+makedict-gl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/makedict-gl.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/README
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/resource/gl/test.txt
+END

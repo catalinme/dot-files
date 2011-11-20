@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/languagetool/!svn/ver/5040/trunk/JLanguageTool/src/test/de/danielnaber/languagetool/rules/bitext
+END
+DifferentLengthRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/languagetool/!svn/ver/4101/trunk/JLanguageTool/src/test/de/danielnaber/languagetool/rules/bitext/DifferentLengthRuleTest.java
+END
+FalseFriendsAsBitextLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/languagetool/!svn/ver/4312/trunk/JLanguageTool/src/test/de/danielnaber/languagetool/rules/bitext/FalseFriendsAsBitextLoaderTest.java
+END
+BitextPatternRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/languagetool/!svn/ver/5040/trunk/JLanguageTool/src/test/de/danielnaber/languagetool/rules/bitext/BitextPatternRuleTest.java
+END
+SameTranslationRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/languagetool/!svn/ver/4101/trunk/JLanguageTool/src/test/de/danielnaber/languagetool/rules/bitext/SameTranslationRuleTest.java
+END

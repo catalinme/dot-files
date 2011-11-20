@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/languagetool/!svn/ver/5035/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/openoffice
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/languagetool/!svn/ver/5035/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/openoffice/Main.java
+END
+OOoAboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/languagetool/!svn/ver/4293/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/openoffice/OOoAboutDialog.java
+END
+SingletonFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/openoffice/SingletonFactory.java
+END
+ConfigThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/openoffice/ConfigThread.java
+END

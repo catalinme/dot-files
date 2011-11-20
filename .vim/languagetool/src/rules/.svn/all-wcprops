@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/languagetool/!svn/ver/5067/trunk/JLanguageTool/src/rules
+END
+rules.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/languagetool/!svn/ver/3662/trunk/JLanguageTool/src/rules/rules.css
+END
+false-friends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4624/trunk/JLanguageTool/src/rules/false-friends.xml
+END
+print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/languagetool/!svn/ver/2365/trunk/JLanguageTool/src/rules/print.xsl
+END
+rules.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/languagetool/!svn/ver/4088/trunk/JLanguageTool/src/rules/rules.xsd
+END
+false-friends.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/3697/trunk/JLanguageTool/src/rules/false-friends.css
+END
+print-ff.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/languagetool/!svn/ver/2565/trunk/JLanguageTool/src/rules/print-ff.xsl
+END
+pattern.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/languagetool/!svn/ver/4088/trunk/JLanguageTool/src/rules/pattern.xsd
+END
+false-friends.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4250/trunk/JLanguageTool/src/rules/false-friends.dtd
+END
+bitext.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/languagetool/!svn/ver/4089/trunk/JLanguageTool/src/rules/bitext.xsd
+END

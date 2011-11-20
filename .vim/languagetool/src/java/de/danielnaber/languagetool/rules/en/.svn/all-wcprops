@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/en
+END
+AvsAnRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/languagetool/!svn/ver/4284/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/en/AvsAnRule.java
+END
+EnglishRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/languagetool/!svn/ver/2342/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/en/EnglishRule.java
+END
+EnglishUnpairedBracketsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/en/EnglishUnpairedBracketsRule.java
+END
+CompoundRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/en/CompoundRule.java
+END

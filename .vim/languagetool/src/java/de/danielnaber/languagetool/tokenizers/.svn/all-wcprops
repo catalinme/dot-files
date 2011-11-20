@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/languagetool/!svn/ver/5032/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tokenizers
+END
+SentenceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/languagetool/!svn/ver/4832/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tokenizers/SentenceTokenizer.java
+END
+WordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/languagetool/!svn/ver/4986/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tokenizers/WordTokenizer.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/languagetool/!svn/ver/1080/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tokenizers/Tokenizer.java
+END
+SRXSentenceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/languagetool/!svn/ver/4977/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tokenizers/SRXSentenceTokenizer.java
+END

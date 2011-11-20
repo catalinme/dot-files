@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/languagetool/!svn/ver/5032/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/km
+END
+KhmerSimpleReplaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/languagetool/!svn/ver/5032/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/km/KhmerSimpleReplaceRule.java
+END
+KhmerWordCoherencyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/km/KhmerWordCoherencyRule.java
+END
+KhmerRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/languagetool/!svn/ver/4835/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/km/KhmerRule.java
+END

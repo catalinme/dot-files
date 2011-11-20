@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/5059/trunk/JLanguageTool/src/resource/fr
+END
+french.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/3031/trunk/JLanguageTool/src/resource/fr/french.info
+END
+tagset.LT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/4401/trunk/JLanguageTool/src/resource/fr/tagset.LT.txt
+END
+README_lexique.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4764/trunk/JLanguageTool/src/resource/fr/README_lexique.txt
+END
+french.dict
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4764/trunk/JLanguageTool/src/resource/fr/french.dict
+END
+multiwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/4976/trunk/JLanguageTool/src/resource/fr/multiwords.txt
+END
+disambiguation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/5059/trunk/JLanguageTool/src/resource/fr/disambiguation.xml
+END

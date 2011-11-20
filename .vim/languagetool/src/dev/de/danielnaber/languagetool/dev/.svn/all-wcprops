@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/languagetool/!svn/ver/5066/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev
+END
+PrintLocales.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/languagetool/!svn/ver/3944/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/PrintLocales.java
+END
+CheckBNC.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/languagetool/!svn/ver/4298/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/CheckBNC.java
+END
+POSTagLanguageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/languagetool/!svn/ver/4419/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/POSTagLanguageModel.java
+END
+RuleActivityOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/languagetool/!svn/ver/4998/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/RuleActivityOverview.java
+END
+ExportGermanNouns.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/languagetool/!svn/ver/4298/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/ExportGermanNouns.java
+END
+RuleOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/languagetool/!svn/ver/4996/trunk/JLanguageTool/src/dev/de/danielnaber/languagetool/dev/RuleOverview.java
+END

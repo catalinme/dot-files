@@ -1,0 +1,11 @@
+[user]
+	name = Cătălin Moraru
+	email = catalin.me@gmail.com
+[push]
+	default = current
+[pull]
+	default = current
+[color]
+	ui = auto
+[merge]
+	tool = vimdiff

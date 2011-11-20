@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/uk
+END
+UkrainianMyspellTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/uk/UkrainianMyspellTagger.java
+END
+IPOSTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/languagetool/!svn/ver/3284/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/uk/IPOSTag.java
+END
+UkrainianTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/languagetool/!svn/ver/3284/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/uk/UkrainianTagger.java
+END
+UkrainianMorfoTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/uk/UkrainianMorfoTagger.java
+END

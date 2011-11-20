@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/resource/ru
+END
+tags.awk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/tags.awk
+END
+russian_tags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/russian_tags.txt
+END
+tags_russian.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/tags_russian.txt
+END
+russian_synth.info
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/russian_synth.info
+END
+compounds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/resource/ru/compounds.txt
+END
+russian.dict
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/russian.dict
+END
+make-dict-ru.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/make-dict-ru.sh
+END
+russian_synth.dict
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/russian_synth.dict
+END
+disambiguation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4603/trunk/JLanguageTool/src/resource/ru/disambiguation.xml
+END
+russian.info
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/russian.info
+END
+synteza.awk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4228/trunk/JLanguageTool/src/resource/ru/synteza.awk
+END

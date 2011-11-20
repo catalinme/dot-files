@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/languagetool/!svn/ver/5062/trunk/JLanguageTool/src/rules/en
+END
+grammar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/languagetool/!svn/ver/5062/trunk/JLanguageTool/src/rules/en/grammar.xml
+END
+det_an.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/languagetool/!svn/ver/3452/trunk/JLanguageTool/src/rules/en/det_an.txt
+END
+det_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/languagetool/!svn/ver/3948/trunk/JLanguageTool/src/rules/en/det_a.txt
+END

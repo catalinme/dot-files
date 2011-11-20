@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/patterns/bitext
+END
+FalseFriendsAsBitextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/languagetool/!svn/ver/4312/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/patterns/bitext/FalseFriendsAsBitextLoader.java
+END
+BitextPatternRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/patterns/bitext/BitextPatternRule.java
+END
+BitextXMLRuleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/patterns/bitext/BitextXMLRuleHandler.java
+END
+BitextPatternRuleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/languagetool/!svn/ver/4977/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/patterns/bitext/BitextPatternRuleLoader.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/ru
+END
+RussianCompoundRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/ru/RussianCompoundRule.java
+END
+RussianSimpleReplaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/languagetool/!svn/ver/5032/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/ru/RussianSimpleReplaceRule.java
+END
+RussianUnpairedBracketsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/ru/RussianUnpairedBracketsRule.java
+END
+RussianRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/languagetool/!svn/ver/2791/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/rules/ru/RussianRule.java
+END

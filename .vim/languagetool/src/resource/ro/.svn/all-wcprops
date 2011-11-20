@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/resource/ro
+END
+test_diacritics.dict
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/languagetool/!svn/ver/3435/trunk/JLanguageTool/src/resource/ro/test_diacritics.dict
+END
+romanian_tags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/languagetool/!svn/ver/3427/trunk/JLanguageTool/src/resource/ro/romanian_tags.txt
+END
+romanian_synth.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/languagetool/!svn/ver/3427/trunk/JLanguageTool/src/resource/ro/romanian_synth.info
+END
+compounds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/src/resource/ro/compounds.txt
+END
+romanian.dict
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3435/trunk/JLanguageTool/src/resource/ro/romanian.dict
+END
+test_diacritics.info
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/languagetool/!svn/ver/3427/trunk/JLanguageTool/src/resource/ro/test_diacritics.info
+END
+coduri.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/3405/trunk/JLanguageTool/src/resource/ro/coduri.html
+END
+romanian_synth.dict
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/languagetool/!svn/ver/3435/trunk/JLanguageTool/src/resource/ro/romanian_synth.dict
+END
+disambiguation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4833/trunk/JLanguageTool/src/resource/ro/disambiguation.xml
+END
+romanian.info
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3405/trunk/JLanguageTool/src/resource/ro/romanian.info
+END

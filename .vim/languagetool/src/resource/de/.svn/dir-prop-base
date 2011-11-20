@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 118
+categories
+ger.dict
+german.dict
+german.zip
+morphy_fsa.txt
+morphy_fsa.zip
+lookup.sh
+morphy_fsa.txt.gz
+false-alarms.txt
+
+END

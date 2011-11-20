@@ -1,0 +1,196 @@
+10
+
+dir
+5067
+https://languagetool.svn.sourceforge.net/svnroot/languagetool/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging
+https://languagetool.svn.sourceforge.net/svnroot/languagetool
+
+
+
+2011-05-15T08:34:13.270713Z
+5047
+dnaber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2fe6a88b-1217-0410-b804-ba6ed01314b8
+
+uk
+dir
+
+ro
+dir
+
+ca
+dir
+
+da
+dir
+
+BaseTagger.java
+file
+
+
+
+
+2011-05-26T12:50:32.685919Z
+c4e41eb2e8a561d56aa0fa5cb35fdaf2
+2011-05-13T11:06:25.327900Z
+5030
+dnaber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4940
+
+be
+dir
+
+ru
+dir
+
+ManualTagger.java
+file
+
+
+
+
+2011-05-26T12:50:32.685919Z
+3a0ceaa4a12f989c545dd2151a59a6ac
+2010-10-02T15:03:49.000000Z
+4420
+milek_pl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3926
+
+de
+dir
+
+sv
+dir
+
+Tagger.java
+file
+
+
+
+
+2011-05-26T12:50:32.685919Z
+1ac68af1b9ea4efaf6e2082d1701b5af
+2011-05-15T08:34:13.270713Z
+5047
+dnaber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2149
+
+disambiguation
+dir
+
+xx
+dir
+
+gl
+dir
+
+en
+dir
+
+eo
+dir
+
+cs
+dir
+
+km
+dir
+
+fr
+dir
+
+es
+dir
+
+ml
+dir
+
+nl
+dir
+
+pl
+dir
+
+it
+dir
+
+sk
+dir
+

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/languagetool/!svn/ver/4823/trunk/JLanguageTool/src/resource/en
+END
+tags.awk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/languagetool/!svn/ver/3160/trunk/JLanguageTool/src/resource/en/tags.awk
+END
+manually_added.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4115/trunk/JLanguageTool/src/resource/en/manually_added.txt
+END
+english.info
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/languagetool/!svn/ver/2497/trunk/JLanguageTool/src/resource/en/english.info
+END
+english_tags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/languagetool/!svn/ver/3370/trunk/JLanguageTool/src/resource/en/english_tags.txt
+END
+compounds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/3265/trunk/JLanguageTool/src/resource/en/compounds.txt
+END
+remap.awk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/languagetool/!svn/ver/2754/trunk/JLanguageTool/src/resource/en/remap.awk
+END
+partlycountable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/languagetool/!svn/ver/3274/trunk/JLanguageTool/src/resource/en/partlycountable.txt
+END
+errors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/languagetool/!svn/ver/4823/trunk/JLanguageTool/src/resource/en/errors.txt
+END
+filter-archaic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/3486/trunk/JLanguageTool/src/resource/en/filter-archaic.txt
+END
+filter-minus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/languagetool/!svn/ver/4115/trunk/JLanguageTool/src/resource/en/filter-minus.txt
+END
+filter_out.awk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/filter_out.awk
+END
+uncountable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/3556/trunk/JLanguageTool/src/resource/en/uncountable.txt
+END
+disambiguation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4378/trunk/JLanguageTool/src/resource/en/disambiguation.xml
+END
+english_synth.dict
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/4115/trunk/JLanguageTool/src/resource/en/english_synth.dict
+END
+test_dict.awk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/test_dict.awk
+END
+get_unc.awk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/4115/trunk/JLanguageTool/src/resource/en/get_unc.awk
+END
+tagset.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/tagset.txt
+END
+make-dict-en.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/3268/trunk/JLanguageTool/src/resource/en/make-dict-en.sh
+END
+12dicts-readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/12dicts-readme.html
+END
+english_synth.info
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/languagetool/!svn/ver/2497/trunk/JLanguageTool/src/resource/en/english_synth.info
+END
+pos-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/pos-readme.txt
+END
+english.dict
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/languagetool/!svn/ver/4115/trunk/JLanguageTool/src/resource/en/english.dict
+END
+agid-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/languagetool/!svn/ver/2059/trunk/JLanguageTool/src/resource/en/agid-readme.txt
+END
+synteza.awk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/languagetool/!svn/ver/3235/trunk/JLanguageTool/src/resource/en/synteza.awk
+END

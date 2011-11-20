@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules
+END
+DisambiguationPatternRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/languagetool/!svn/ver/4422/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules/DisambiguationPatternRule.java
+END
+AbstractRuleDisambiguator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/languagetool/!svn/ver/4643/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules/AbstractRuleDisambiguator.java
+END
+DisambXMLRuleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules/DisambXMLRuleHandler.java
+END
+DisambiguatedExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules/DisambiguatedExample.java
+END
+DisambiguationRuleLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/languagetool/!svn/ver/4419/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/tagging/disambiguation/rules/DisambiguationRuleLoader.java
+END

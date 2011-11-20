@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/languagetool/!svn/ver/5067/trunk/JLanguageTool
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/languagetool/!svn/ver/5066/trunk/JLanguageTool/.classpath
+END
+LanguageTool.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/languagetool/!svn/ver/4848/trunk/JLanguageTool/LanguageTool.jnlp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/languagetool/!svn/ver/4137/trunk/JLanguageTool/.project
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/languagetool/!svn/ver/5033/trunk/JLanguageTool/CHANGES.txt
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/languagetool/!svn/ver/814/trunk/JLanguageTool/COPYING.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/languagetool/!svn/ver/5004/trunk/JLanguageTool/build.properties
+END
+i18n_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/languagetool/!svn/ver/4716/trunk/JLanguageTool/i18n_update.sh
+END
+LanguageToolServer.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/languagetool/!svn/ver/4848/trunk/JLanguageTool/LanguageToolServer.jnlp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/languagetool/!svn/ver/5044/trunk/JLanguageTool/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/languagetool/!svn/ver/5037/trunk/JLanguageTool/build.xml
+END

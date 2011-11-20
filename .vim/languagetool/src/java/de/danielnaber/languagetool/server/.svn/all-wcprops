@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/server
+END
+LanguageToolHttpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/languagetool/!svn/ver/5030/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/server/LanguageToolHttpHandler.java
+END
+HTTPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/languagetool/!svn/ver/5017/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/server/HTTPServer.java
+END
+PortBindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/languagetool/!svn/ver/3326/trunk/JLanguageTool/src/java/de/danielnaber/languagetool/server/PortBindingException.java
+END

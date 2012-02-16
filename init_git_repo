@@ -1,0 +1,17 @@
+So, firstly setup the remote repository:
+
+	ssh git@example.com
+	mkdir my_project.git
+	cd my_project.git
+	git init --bare
+	git-update-server-info # If planning to serve via HTTP
+	exit
+
+
+On local machine:
+	cd my_project
+	git init
+	git add *
+	git commit -m "My initial commit message"
+	git remote add origin git@example.com:my_project.git
+	git push origin master

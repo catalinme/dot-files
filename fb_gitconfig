@@ -1,0 +1,31 @@
+[user]
+	email = john.doe@fitbit.com
+	name = John Doe
+[color]
+	ui = auto
+[alias]
+    alias = "! git config --get-regexp ^alias "
+	ci = commit
+	cs = commit -sm $1
+    s = submodule
+	st = status
+	sh = show 
+	br = branch -vv
+    cam = commit --amend
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	type = cat-file -t
+	dump = cat-file -p
+	co = checkout
+    rbm = "!git co master; git pull --rebase; git co -; git rebase master" 
+    rb = "!f() { git rebase -i @~$1; }; git stash; f $1;"
+    rbc = rebase --continue
+    cd = diff --cached
+    curr = rev-parse --abbrev-ref @ 
+    plg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset \
+         %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    #lg = log -pretty=format:"%h%x09%%an%x09%ad%x09%s"
+    lg = "!f() { git plg -$1; }; f"
+    lgs = "!f() { if [ -z $1 ]; then n='5'; else n=$1; fi; git plg --stat -$n; }; f"
+    lgp = "!f() { git log --pretty=format:'%n* %s%n%w(80,2,2)%b' -$1 | grep -vi 'signed'; }; f"
+[core]
+	editor = vim

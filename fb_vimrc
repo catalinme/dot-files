@@ -1,0 +1,19 @@
+set colorcolumn=80
+set noexpandtab
+
+set tabstop=4
+set shiftwidth=4
+
+"" make tmux config play well with vim
+set background=dark
+set t_Co=256
+
+
+" Removes trailing spaces
+function TrimWhiteSpace()
+  %s/\s*$//
+  ''
+endfunction
+
+map <F2> :call TrimWhiteSpace()<CR>
+" map! <F2> :call TrimWhiteSpace()<CR>
